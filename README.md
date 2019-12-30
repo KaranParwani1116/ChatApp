@@ -1,2 +1,2 @@
 # ChatApp
-<img src="https://github.com/KaranParwani1116/ChatApp/blob/master/screenshots/Screenshot_2019-11-19-18-48-41-865_com.example.chatapp.png" width="300" height="500">
+<img src="https://github.com/KaranParwani1116/ChatApp/blob/master/screenshots/Screenshot_2019-11-19-18-48-41-865_com.example.chatapp.png" width="250" height="500"> | <img src="https://github.com/KaranParwani1116/ChatApp/blob/master/Screenshot_2019-12-30-19-52-41-339_com.example.chatapp.png" width="250" height="500"> | <img src="https://github.com/KaranParwani1116/ChatApp/blob/master/Screenshot_2019-12-30-19-52-52-430_com.example.chatapp.png" width="250" height="500">
